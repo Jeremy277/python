@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/month01-石博文笔记/day16-shibw/project" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/month01-课堂笔记/day18-fb" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/daily practice/python编程-从入门到实践/第12章 武装飞船" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/日常练习-daily practice/python编程-从入门到实践/第12章 武装飞船" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/month01-shibw-notes/game_2048" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="Twisted Trial" />
+    <option name="PROJECT_TEST_RUNNER" value="Twisted Trial" />
+  </component>
+</module>

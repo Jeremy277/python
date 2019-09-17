@@ -1,0 +1,7 @@
+2019-09-06 19:25:28,536 ERROR    this is an exception message
+Traceback (most recent call last):
+  File "/home/tarena/python/pytnon-month02/expand/log/test.py", line 6, in <module>
+    1 / 0
+ZeroDivisionError: division by zero
+2019-09-06 19:26:29,593 ERROR    发生了错误
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/pytnon-month01/周六练习-practice on saturday/game_2048" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pytnon-month02/month02-lvze-notes/day01-lvze" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pytnon-month02/month02-lvze-notes/day02_lvze" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/资料data/spaceShooter-0.0.3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pytnon-month01/month01-shibw-notes/day16-shibw" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pytnon-month02/exercise/day09_review" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pytnon-month02/month02-lvze-notes/day10-lvze" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/pytnon-month02/expand/log" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="Twisted Trial" />
+    <option name="PROJECT_TEST_RUNNER" value="Twisted Trial" />
+  </component>
+</module>

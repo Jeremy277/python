@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e95d9e4-277f-4680-a19c-f21f0601e80c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>name3</find>
+      <find>result_1</find>
+      <find>sum</find>
+      <find>count</find>
+      <find>max</find>
+      <find>zhoa</find>
+      <find>call</find>
+      <find>c01</find>
+      <find>zongjia</find>
+      <find>man</find>
+      <find>StudentMangerController</find>
+      <find>CommodityModel</find>
+      <find>zero_to_end</find>
+      <find>merge</find>
+      <find>square_matrix</find>
+      <find>list_target</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>temp</replace>
+      <replace>result</replace>
+      <replace>sum_</replace>
+      <replace>num</replace>
+      <replace>min</replace>
+      <replace>zhao</replace>
+      <replace>shout</replace>
+      <replace>c02</replace>
+      <replace>total_price</replace>
+      <replace>mana</replace>
+      <replace>StudentManagerController</replace>
+      <replace>S</replace>
+      <replace>__zero_to_end</replace>
+      <replace>__merge</replace>
+      <replace>__square_matrix</replace>
+      <replace>self.__list_merge</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/month01-石博文笔记/day17-qitx/demo03-迭代器.py" />
+        <option value="$PROJECT_DIR$/month01-石博文笔记/day17-qitx/demo01-迭代器.py" />
+        <option value="$PROJECT_DIR$/month01-石博文笔记/day17-qitx/作业/敌人类.py" />
+        <option value="$PROJECT_DIR$/month01-课堂笔记/demo01.py" />
+        <option value="$PROJECT_DIR$/month01-课堂笔记/day18-fb/common/list_helper.py" />
+        <option value="$PROJECT_DIR$/month01-课堂笔记/day18-fb/common/__init__.py" />
+        <option value="$PROJECT_DIR$/month01-课堂笔记/day18-fb/demo01.py" />
+        <option value="$PROJECT_DIR$/month01-课堂笔记/day18-fb/exercise01.py" />
+        <option value="$PROJECT_DIR$/month01-class notes/day18-fb/demo01.py" />
+        <option value="$PROJECT_DIR$/month01-class notes/day18-fb/common/list_helper.py" />
+        <option value="$PROJECT_DIR$/daily practice/python编程-从入门到实践/第12章 武装飞船/settings.py" />
+        <option value="$PROJECT_DIR$/daily practice/python编程-从入门到实践/第12章 武装飞船/alien_lianxi.py" />
+        <option value="$PROJECT_DIR$/month01-class notes/day18-fb/demo02.py" />
+        <option value="$PROJECT_DIR$/month01-class notes/day18-fb/exercise01.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day08-shibw/demo04-作用域.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day08-shibw/demo05-LEGB变量作用域.py" />
+        <option value="$PROJECT_DIR$/month01-class notes/day18-fb/demo03.py" />
+        <option value="$PROJECT_DIR$/daily practice/python编程-从入门到实践/第12章 武装飞船/ship.py" />
+        <option value="$PROJECT_DIR$/daily practice/python编程-从入门到实践/第12章 武装飞船/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/daily practice/python编程-从入门到实践/第12章 武装飞船/game_functions.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day08-shibw/demo02-函数实参传递方式.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day08-shibw/demo03-函数形参传递.py" />
+        <option value="$PROJECT_DIR$/month01-class notes/day18-fb/exercise02.py" />
+        <option value="$PROJECT_DIR$/month01-class notes/day18-fb/2048.py" />
+        <option value="$PROJECT_DIR$/month01-class notes/day18-fb/exercise03.py" />
+        <option value="$PROJECT_DIR$/周六练习-practice on saturday/8.10-dn120例.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day18-qitx/demo03.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day18-qitx/demo05-函数装饰器.py" />
+        <option value="$PROJECT_DIR$/日常练习-daily practice/python编程-从入门到实践/第12章 武装飞船/game_functions.py" />
+        <option value="$PROJECT_DIR$/日常练习-daily practice/python编程-从入门到实践/第12章 武装飞船/settings.py" />
+        <option value="$PROJECT_DIR$/日常练习-daily practice/python编程-从入门到实践/第12章 武装飞船/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/日常练习-daily practice/python编程-从入门到实践/第12章 武装飞船/ship.py" />
+        <option value="$PROJECT_DIR$/周六练习-practice on saturday/独立完成/OOP-商品信息管理系统.py" />
+        <option value="$PROJECT_DIR$/周六练习-practice on saturday/独立完成/fan_2 _skill_system.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day18-qitx/homework.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day18-qitx/common/list_helper.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day18-qitx/exercise01-从列表助手中调用.py" />
+        <option value="$PROJECT_DIR$/周六练习-practice on saturday/独立完成/OOP-fann_1商品信息管理系统.py" />
+        <option value="$PROJECT_DIR$/周六练习-practice on saturday/独立完成/OOP-fann_2_商品信息管理系统.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day17-qitx/demo04-生成器表达式.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day19-2048project/bill.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day19-2048project/usl.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day19-2048project/main.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day09-shibw/exercise01-2048算法.py" />
+        <option value="$PROJECT_DIR$/周六练习-practice on saturday/lianxi02-2048.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day19-qitx/lianxi.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day19-2048project/model.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/game_2048/bll.py" />
+        <option value="$PROJECT_DIR$/month01-shibw-notes/day19-2048project/bll.py" />
+        <option value="$PROJECT_DIR$/周六练习-practice on saturday/lianxi.py" />
+        <option value="$PROJECT_DIR$/周六练习-practice on saturday/shibw-shopping_oo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="105" />
+    <option name="y" value="28" />
+    <option name="width" value="1803" />
+    <option name="height" value="1007" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="pytnon-month01" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="pytnon-month01" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="month01-课堂笔记" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="pytnon-month01" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="month01-课堂笔记" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="day15-fb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="pytnon-month01" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="month01-课堂笔记" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="day15-fb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="student_system_model" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pytnon-month01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pytnon-month01" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/month01-石博文笔记/day15-shibw" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/周六练习-practice on saturday" />
+      <recent name="$PROJECT_DIR$/周六练习-practice on saturday/独立完成" />
+      <recent name="$PROJECT_DIR$/month01-class notes/day18-fb" />
+      <recent name="$PROJECT_DIR$/daily practice/python编程-从入门到实践/第12章 武装飞船/images" />
+      <recent name="$PROJECT_DIR$/周六练习" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/month01-课堂笔记/day18-fb/common" />
+      <recent name="$PROJECT_DIR$/month01-石博文笔记/day17-qitx/作业" />
+      <recent name="$PROJECT_DIR$/周六练习" />
+      <recent name="$PROJECT_DIR$/周六练习/独立完成" />
+      <recent name="$PROJECT_DIR$/日常练习" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.shibw-shopping_oo">
+    <configuration name="bll (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="month1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month01-shibw-notes/game_2048" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01-shibw-notes/game_2048/bll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bll" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="month1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month01-shibw-notes/day19-2048project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01-shibw-notes/day19-2048project/bll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo03" type="PythonConfigurationType" factoryName="Python">
+      <module name="month1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month01-课堂笔记/day11-fb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01-课堂笔记/day11-fb/demo03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo06" type="PythonConfigurationType" factoryName="Python">
+      <module name="month1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month01-课堂笔记/day17-fb" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01-课堂笔记/day17-fb/demo06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lianxi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="month1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month01-shibw-notes/day19-qitx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01-shibw-notes/day19-qitx/lianxi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="month1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/month01-shibw-notes/game_2048" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/month01-shibw-notes/game_2048/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shibw-shopping_oo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="month1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/周六练习-practice on saturday" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/周六练习-practice on saturday/shibw-shopping_oo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.shibw-shopping_oo" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.bll" />
+        <item itemvalue="Python.lianxi" />
+        <item itemvalue="Python.bll (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e95d9e4-277f-4680-a19c-f21f0601e80c" name="Default Changelist" comment="" />
+      <created>1564621966781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564621966781</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="105" y="28" width="1803" height="1007" extended-state="0" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.17931423" />
+      <window_info id="DB Browser" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2900336" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3526735" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49949443" weight="0.3257821" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32922733" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50050557" side_tool="true" weight="0.39949432" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" x="0" y="0" width="243" height="805" id="Documentation" order="3" side_tool="true" weight="0.32919255" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.20775624" />
+      <window_info id="DB Browser" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.29076397" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35347778" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49949443" visible="true" weight="0.327252" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50050557" side_tool="true" weight="0.39949432" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32941177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/month01-课堂笔记/day03-fb/demo01.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/month01-课堂笔记/day03-fb/demo01.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/month01-课堂笔记/day03-fb/demo01.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/month01-课堂笔记/day03-fb/demo01.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/month01-课堂笔记/day08-fb/exercise03.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/month01-课堂笔记/day08-fb/exercise03.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/month01-课堂笔记/day08-fb/exercise03.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/month01-课堂笔记/day08-fb/exercise03.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/month01-课堂笔记/day08-fb/exercise03.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/month01-课堂笔记/day08-fb/exercise03.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/month01-课堂笔记/day08-fb/exercise03.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/month01-课堂笔记/day08-fb/exercise03.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/month01-课堂笔记/day17-fb/demo02.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day18-qitx/demo03-外部嵌套函数作用域.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day18-qitx/exercise02-内置告诫函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-886" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day18-qitx/exercise03-闭包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day18-qitx/exercise.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day17-qitx/demo06-函数式编程应用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3/dist-packages/apport_python_hook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/8.10-dn120例.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="152" selection-start-line="152" selection-end-line="159" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/日常练习-daily practice/python编程-从入门到实践/第12章 武装飞船/alien_lianxi.py" />
+    <entry file="file://$PROJECT_DIR$/日常练习-daily practice/python编程-从入门到实践/第12章 武装飞船/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/日常练习-daily practice/python编程-从入门到实践/第12章 武装飞船/game_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/日常练习-daily practice/python编程-从入门到实践/第12章 武装飞船/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/日常练习-daily practice/python编程-从入门到实践/第12章 武装飞船/ship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day06-shibw/demo04-字典基础操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/student_manager_system.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/独立完成/POP-shopping2-函数代码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/独立完成/fanb_skill_system.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1110">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/独立完成/fanb-skill_system.py" />
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day18-qitx/demo05-函数装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day18-qitx/demo04-闭包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/exercise04-面向对象和封装.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day18-qitx/common/list_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="121" column="6" lean-forward="true" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+          <folding>
+            <element signature="e#1440#1593#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day18-qitx/exercise01-从列表助手中调用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4175">
+          <caret line="168" column="5" lean-forward="true" selection-start-line="168" selection-start-column="5" selection-end-line="168" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day10-shibw/作业/1.定义敌人类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1800" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day18-qitx/homework-运行时间拦截器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day18-qitx/exercise04-装饰器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day14_shibw/shopping_oo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2850">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day17-qitx/demo04-生成器表达式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/lianxi02-2048.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="88" column="10" selection-start-line="88" selection-start-column="10" selection-end-line="89" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day09-shibw/exercise01-2048算法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="91" column="11" lean-forward="true" selection-start-line="91" selection-start-column="11" selection-end-line="96" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day08-shibw/demo02-函数实参传递方式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day19-2048project/usl.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day19-qitx/review01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="21" lean-forward="true" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day19-qitx/review02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day19-qitx/review03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day19-2048project/bll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="110" column="24" selection-start-line="110" selection-start-column="24" selection-end-line="110" selection-end-column="24" />
+          <folding>
+            <element signature="e#23#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/game_2048/game_doc.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day19-qitx/lianxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day19-2048project/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/day19-2048project/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/game_2048/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="4" selection-start-column="6" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/game_2048/usl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <element signature="e#23#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/game_2048/bll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-390">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/game_2048/bll.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/lianxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/lianxi01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/shibw-skill-system.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="68" column="4" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month01-shibw-notes/game_2048/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/shibw-shopping_oo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1130">
+          <caret line="126" lean-forward="true" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/独立完成/OOP-fann_1商品信息管理系统.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2490">
+          <caret line="154" column="28" lean-forward="true" selection-start-line="154" selection-start-column="28" selection-end-line="154" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/独立完成/OOP-fanb-1_student_manager_system.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2970" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/周六练习-practice on saturday/独立完成/OOP-fann_2_商品信息管理系统.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2375">
+          <caret line="106" column="31" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

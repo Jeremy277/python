@@ -1,0 +1,4 @@
+2019-09-06 19:16:29,655 INFO     this is information
+2019-09-06 19:16:29,655 WARNING  this is warning message
+2019-09-06 19:16:29,655 ERROR    this is error message
+2019-09-06 19:16:29,655 CRITICAL this is critical message
